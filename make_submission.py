@@ -14,7 +14,7 @@ ROOT = Path(__file__).parent
 OUTPUT = ROOT / 'Fomi_Assessment_Submission.pdf'
 LIVE = 'https://frame-studio-red.vercel.app'
 REFERENCE = LIVE + '/reference'
-GITHUB = 'https://github.com/AbdulAhad2468/fomi-frontend-assessment'
+GITHUB = 'https://github.com/AbdulAhad2468/fomi.ai'
 
 pdfmetrics.registerFont(TTFont('Segoe', r'C:\Windows\Fonts\segoeui.ttf'))
 pdfmetrics.registerFont(TTFont('SegoeBold', r'C:\Windows\Fonts\segoeuib.ttf'))
