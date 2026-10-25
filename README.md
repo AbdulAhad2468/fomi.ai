@@ -5,7 +5,7 @@ Two independent Next.js routes share a small, honest mock API:
 - `/reference` — Part A, a responsive recreation of the supplied light mockup.
 - `/` — Part B, an original professional image workspace built around a **decision trail**.
 
-**Live:** [Part B workspace](https://frame-studio-red.vercel.app) · [Part A mockup implementation](https://frame-studio-red.vercel.app/reference)  
+**Live:** [Part B workspace](https://fomiai-mlxx.vercel.app/) · [Part A mockup implementation](https://fomiai-mlxx.vercel.app/reference)  
 **Source:** [GitHub repository](https://github.com/AbdulAhad2468/fomi.ai)
 
 ## Run locally

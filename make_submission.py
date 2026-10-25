@@ -12,8 +12,8 @@ from reportlab.lib.utils import ImageReader
 
 ROOT = Path(__file__).parent
 OUTPUT = ROOT / 'Fomi_Assessment_Submission.pdf'
-LIVE = 'https://frame-studio-red.vercel.app'
-REFERENCE = LIVE + '/reference'
+LIVE = 'https://fomiai-mlxx.vercel.app/'
+REFERENCE = LIVE.rstrip('/') + '/reference'
 GITHUB = 'https://github.com/AbdulAhad2468/fomi.ai'
 
 pdfmetrics.registerFont(TTFont('Segoe', r'C:\Windows\Fonts\segoeui.ttf'))
